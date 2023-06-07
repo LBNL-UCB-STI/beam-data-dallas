@@ -1,0 +1,6 @@
+.idea/
+*DS_Store
+osm.mapdb
+osm.mapdb.p
+network.dat
+physsim-network.xml
